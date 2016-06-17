@@ -95,7 +95,7 @@ lead: Form controls allow users to enter information into a page.
 <div class="preview">
 <form class="usa-form">
   <label for="options">Dropdown label</label>
-  <select name="options" id="options">
+  <select class="usa-dropdown-options" name="options" id="options">
     <option value="value1">Option A</option>
     <option value="value2">Option B</option>
     <option value="value3">Option C</option>
